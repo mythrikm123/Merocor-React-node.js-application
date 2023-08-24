@@ -1,0 +1,47 @@
+.exam-page {
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 100px;
+  }
+  .exam-page button {
+    background-color: #4CAF50;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-left: 50px;
+    border-radius: 5px;
+  }
+  .exam-page button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .exam-page .transcript {
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .exam-page h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .exam-page ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .exam-page li {
+    margin-bottom: 10px;
+  }
+  
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  

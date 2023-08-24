@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.landing-page {
+  text-align: center;
+  padding: 50px;
+  background-color: #2196F3;
+  color: #ffffff;
+  height: 642px;
+}
+
+.landing-page h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.landing-page p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+}
+
+.landing-page button {
+  background-color: #FF9800;
+  border: none;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.landing-page button:hover {
+  background-color: #F57C00;
+}
